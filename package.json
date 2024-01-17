@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+// node_modules/next/dist/bin/next start
   },
   "dependencies": {
     "react": "^18",
