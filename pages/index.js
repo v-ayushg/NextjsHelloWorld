@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
      <h2> My name is Ayush Gupta. This is my first Nextjs App and its working on portal without startup command.
-     This is windows web app.
+     .
      </h2>
      
     </>
