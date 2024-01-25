@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-     <h2> My name is Ayush Gupta. <B>Today date is 25th Jan.</b> This is my first Nextjs App and its working on portal without startup command.
+     <h2> My name is Ayush Gupta. <Today date is 25th Jan.This is my first Nextjs App and its working on portal without startup command.
      .
      </h2>
      
